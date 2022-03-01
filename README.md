@@ -1,3 +1,6 @@
+[![Run tests](https://github.com/Neutix/practice2and3/actions/workflows/test.yml/badge.svg)](https://github.com/Neutix/practice2and3/actions/workflows/test.yml)
+[![Coverage Status](https://coveralls.io/repos/github/Neutix/practice2and3/badge.svg?branch=master)](https://coveralls.io/github/Neutix/practice2and3?branch=master)
+
 * [x] Opprett et React prosjekt med Parcel som vist på forelesningen. Legg til react-router-dom
 * [x] Bruk React Router til å la brukeren gå til / for å kunne klikke på "ny quiz", /question for å vise spørsmål og "/answer/*" for å vise svaret
       Om vis et tilfeldig spørsmål når brukeren ser på en ny quiz. Bruk gjerne randomQuestion i questions.js Last ned questions.js
